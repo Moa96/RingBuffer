@@ -1,0 +1,7 @@
+﻿  main.cpp
+C:\Users\Mohamed Mahad\source\repos\RingBufferProejct\RingBufferProejct\RingBuffer.h(65,10): error C2760: syntax error: unexpected token ';', expected '}'
+C:\Users\Mohamed Mahad\source\repos\RingBufferProejct\RingBufferProejct\RingBuffer.h(64,16): error C2760: syntax error: unexpected token '{', expected 'expression'
+  RingBuffer.cpp
+C:\Users\Mohamed Mahad\source\repos\RingBufferProejct\RingBufferProejct\RingBuffer.h(65,10): error C2760: syntax error: unexpected token ';', expected '}'
+C:\Users\Mohamed Mahad\source\repos\RingBufferProejct\RingBufferProejct\RingBuffer.h(64,16): error C2760: syntax error: unexpected token '{', expected 'expression'
+  Generating Code...
